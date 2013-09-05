@@ -42,7 +42,7 @@ For example:
 $ git push origin my-branch:master
 ```
 
-### Revert to the last commit LOSING ALL CHANGES
+### Revert to the last commit _LOSING ALL CHANGES_
 
 This command is a dangerous one if not used properly. It is recoverable though (so long as you don't wait more than a few days).
 
